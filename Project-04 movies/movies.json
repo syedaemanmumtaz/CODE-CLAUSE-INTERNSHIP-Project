@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Inception",
+        "release_date": "2010-07-16",
+        "genre": "Science Fiction",
+        "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "poster": "img/inception.jpg"
+        },
+    {
+        "title": "The Dark Knight",
+        "release_date": "2008-07-18",
+        "genre": "Action",
+        "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "poster": "img/t.webp"
+    },
+    {
+        "title": "Harry Potter",
+        "release_date": "2005-09-27",
+        "genre": "Action , animation" ,
+        "cast": [" Daniel Radcliffe , Rupert Grint , Emma Watson , Ralph Fiennes , Richard Harris , Michael Gambon , Maggie Smith"],
+        "poster": "img/harry.jpg"
+    },
+    {
+        "title": "Sweet & sour",
+        "release_date": "2021-02-20",
+        "genre": "Action , love , romance" ,
+        "cast": [" Jang Ki-yong. Jang-hyuk. , Chae Soo-bin. Da-eun , Jeong Sujeong. Han Bo-yeong."],
+        "poster": "img/sweet.jpg"
+    }
+]
