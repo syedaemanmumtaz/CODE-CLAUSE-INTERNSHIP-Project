@@ -7,6 +7,8 @@ function addTask() {
         return;
     }
 
+    
+
     const taskList = document.getElementById('task-list');
 
     const taskItem = document.createElement('li');
